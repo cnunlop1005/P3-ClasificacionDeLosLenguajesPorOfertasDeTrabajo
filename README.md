@@ -26,13 +26,13 @@
 
 ---
 ## 3. Tabla comparativa de los lenguajes:
-| **Mundo** | **España** |
-|-----------|-----------|
-| Python | Java    |
-| Java | JavaScript |
-| JavaScript | Python |
-| C y C++ | C y C++ |
-| C# | C# |
-| PHP | PHP |
-| Ruby | Ruby |
-| VB .NET | VB .NET |
+  || **Mundo** | **España** |
+  |-----------|-----------|-----------|
+  | **1.** | Python | Java    |
+  | **2.** | Java | JavaScript |
+  | **3.** | JavaScript | Python |
+  | **4.** | C y C++ | C y C++ |
+  | **5.** | C# | C# |
+  | **6.** | PHP | PHP |
+  | **7.** | Ruby | Ruby |
+  | **8.** | VB .NET | VB .NET |
