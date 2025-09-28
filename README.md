@@ -25,3 +25,14 @@
 <img width="503" height="67" alt="lenguaje java mundo" src="https://github.com/user-attachments/assets/04f8c012-0179-472e-878d-784e293ec94a" />
 
 ---
+## 3. Tabla comparativa de los lenguajes:
+| Mundo | España |
+|-----------|-----------|
+| Python | Java    |
+| Java | JavaScript |
+| JavaScript | Python |
+| C y C++ | C y C++ |
+| C# | C# |
+| PHP | PHP |
+| Ruby | Ruby |
+| VB .NET | VB .NET |
