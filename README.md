@@ -26,7 +26,7 @@
 
 ---
 ## 3. Tabla comparativa de los lenguajes:
-| Mundo | España |
+| **Mundo** | **España** |
 |-----------|-----------|
 | Python | Java    |
 | Java | JavaScript |
