@@ -24,6 +24,4 @@
 <img width="506" height="68" alt="lenguaje java españa" src="https://github.com/user-attachments/assets/19d446b8-3abc-4276-b8e2-7ce854bbb000" />
 <img width="503" height="67" alt="lenguaje java mundo" src="https://github.com/user-attachments/assets/04f8c012-0179-472e-878d-784e293ec94a" />
 
-
-
 ---
